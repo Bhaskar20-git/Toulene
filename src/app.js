@@ -9,7 +9,7 @@
 
 'use strict';
 
-const Default_Login_Server = "play.pokemonshowdown.com";
+const Default_Login_Server = "http://star-blades.glitch.me-80.psim.us";
 const Default_Server_Port = 8080;
 
 const Path = require('path');
